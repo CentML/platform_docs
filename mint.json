@@ -1,27 +1,31 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Prism Starter Kit",
+  "name": "CentML Platform",
   "theme": "prism",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg",
-    "href": "https://starter-prism.mintlify.app/"
+    "dark": "https://centml.ai/wp-content/themes/centml/inc/assets/img/centml-logo-light.svg",
+    "light": "https://centml.ai/wp-content/themes/centml/inc/assets/img/centml-logo-dark.svg",
+    "href": "https://centml.ai/"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "favicon.png",
   "colors": {
-    "primary": "#5D4CFE",
-    "light": "#8477FF",
-    "dark": "#5D4CFE"
+    "primary": "#004331",
+    "light": "#00A87B",
+    "dark": "#33B995",
+    "background": {
+        "light": "#E5F6F2",
+        "dark": "#004331"
+    }
   },
   "topbarLinks": [
     {
-      "name": "Feedback",
-      "url": "mailto:support@mintlify.com"
+      "name": "Get in Touch",
+      "url": "mailto:support@centml.ai"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://app.centml.com"
   },
   "navigation": [
     {
@@ -59,8 +63,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify",
-    "github": "https://github.com/mintlify"
+    "twitter": "https://twitter.com/CentML_Inc",
+    "linkedin": "https://www.linkedin.com/company/centml/",
+    "github": "https://github.com/CentML"
   }
 }

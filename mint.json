@@ -28,13 +28,21 @@
     "name": "Get Started",
     "url": "https://app.centml.com"
   },
+  "anchors": [
+    {
+      "name": "API Reference",
+      "openapi": "https://petstore3.swagger.io/api/v3/openapi.json",
+      "url": "client-reference",
+      "icon": "square-terminal"
+    }
+  ],
   "navigation": [
     {
       "group": "",
       "pages": [
-        "introduction",
-        "quickstart",
-        "concepts"
+        "main/introduction",
+        "main/quickstart",
+        "main/concepts"
       ]
     },
     {
@@ -51,16 +59,8 @@
     {
       "group": "Clients",
       "pages": [
-        "client-reference/cli",
-        "client-reference/sdk"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "client/cli",
+        "client/sdk"
       ]
     }
   ],

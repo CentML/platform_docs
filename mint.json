@@ -28,14 +28,6 @@
     "name": "Get Started",
     "url": "https://app.centml.com"
   },
-  "anchors": [
-    {
-      "name": "API Reference",
-      "openapi": "https://petstore3.swagger.io/api/v3/openapi.json",
-      "url": "client-reference",
-      "icon": "square-terminal"
-    }
-  ],
   "navigation": [
     {
       "group": "",
@@ -61,6 +53,13 @@
       "pages": [
         "client/cli",
         "client/sdk"
+      ]
+    },
+    {
+      "group": "API Reference",
+      "pages": [
+        "client/endpoint/serverless/create-chat-completion",
+        "client/endpoint/serverless/get-models"
       ]
     }
   ],

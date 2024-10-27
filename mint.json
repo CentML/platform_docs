@@ -44,8 +44,7 @@
         "applications/code",
         "applications/images",
         "applications/settings",
-        "applications/navigation",
-        "applications/reusable-snippets"
+        "applications/navigation"
       ]
     },
     {

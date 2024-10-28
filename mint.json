@@ -33,8 +33,7 @@
       "group": "",
       "pages": [
         "main/introduction",
-        "main/quickstart",
-        "main/concepts"
+        "main/quickstart"
       ]
     },
     {
@@ -58,6 +57,12 @@
       "pages": [
         "clients/cli",
         "clients/sdk"
+      ]
+    },
+    {
+      "group": "Resources",
+      "pages": [
+        "resources/pricing"
       ]
     }
   ],

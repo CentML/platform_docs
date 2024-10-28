@@ -37,13 +37,13 @@
       ]
     },
     {
-      "group": "Services",
+      "group": "Applications",
       "pages": [
-        "services/markdown",
-        "services/code",
-        "services/images",
-        "services/settings",
-        "services/navigation"
+        "services/serverless",
+        "services/llm",
+        "services/inference",
+        "services/compute",
+        "services/rag"
       ]
     },
     {

@@ -39,11 +39,11 @@
     {
       "group": "Applications",
       "pages": [
-        "services/serverless",
-        "services/llm",
-        "services/inference",
-        "services/compute",
-        "services/rag"
+        "apps/serverless",
+        "apps/llm",
+        "apps/inference",
+        "apps/compute",
+        "apps/rag"
       ]
     },
     {

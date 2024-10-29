@@ -37,9 +37,8 @@
       ]
     },
     {
-      "group": "Applications",
+      "group": "Deployments",
       "pages": [
-        "apps/serverless",
         "apps/llm",
         "apps/inference",
         "apps/compute",

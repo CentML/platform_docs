@@ -46,12 +46,6 @@
       ]
     },
     {
-      "group": "Examples",
-      "pages": [
-        "examples/chat"
-      ]
-    },
-    {
       "group": "Clients",
       "pages": [
         "clients/setup",

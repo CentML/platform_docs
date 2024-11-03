@@ -55,7 +55,6 @@
     {
       "group": "Resources",
       "pages": [
-        "resources/byoi",
         "resources/custom_image",
         "resources/private",
         "resources/pricing"

@@ -54,6 +54,7 @@
     {
       "group": "Clients",
       "pages": [
+        "clients/setup",
         "clients/cli",
         "clients/sdk"
       ]
